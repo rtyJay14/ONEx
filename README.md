@@ -1,2 +1,2 @@
 # ONEx
-ONE Express Logistic App.
+ONE Express Logistic Mobile App.
