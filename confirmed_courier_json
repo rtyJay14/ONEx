@@ -1,0 +1,169 @@
+{
+    "success": {
+        "message": "ok",
+        "status_code": 200
+    },
+    "data": {
+        "package": [
+            {
+                "package_id": 1,
+                "package_status_id": 1,
+                "package_status": "Pending",
+                "shipment_id": 1,
+                "package_weight": "1.00",
+                "delivery_type": 1,
+                "invoice_no": "4420415499279623",
+                "buyer_info": {
+                    "b_last_name": "Agilus",
+                    "b_first_name": "ayen",
+                    "b_contact": "00029978088",
+                    "b_address": {
+                        "address": "1106 Centerpoint Bldg. Garnet Rd. corner Julia Vargas Ave.",
+                        "zip": "",
+                        "region": "",
+                        "city": null
+                    }
+                },
+                "seller_info": {
+                    "s_first_name": "Banana",
+                    "s_last_name": "Ralph",
+                    "s_contact": "09271225123",
+                    "s_address": {
+                        "address": "",
+                        "city": "Mandaluyong City",
+                        "region": "",
+                        "zip": "1603"
+                    }
+                },
+                "products": [
+                    {
+                        "product_name": "90210",
+                        "product_quantity": 1,
+                        "product_weight": "0.50"
+                    }
+                ]
+            },
+            {
+                "package_id": 3,
+                "package_status_id": 1,
+                "package_status": "Pending",
+                "shipment_id": 3,
+                "package_weight": "1.00",
+                "delivery_type": 2,
+                "invoice_no": "24104154300372303825",
+                "buyer_info": {
+                    "b_last_name": "Gia",
+                    "b_first_name": "Kalingkingan",
+                    "b_contact": "09989986671 / 9",
+                    "b_address": {
+                        "address": "467 Mt. Pinatubo Katirik-tirikan Village",
+                        "zip": "",
+                        "region": "",
+                        "city": null
+                    }
+                },
+                "seller_info": {
+                    "s_first_name": "Moroco",
+                    "s_last_name": "Kagane",
+                    "s_contact": "09271225123",
+                    "s_address": {
+                        "address": "",
+                        "city": "Mandaluyong City",
+                        "region": "",
+                        "zip": "1603"
+                    }
+                },
+                "products": [
+                    {
+                        "product_name": "Royale L-gluta Power Soap",
+                        "product_quantity": 1,
+                        "product_weight": "0.50"
+                    }
+                ]
+            },
+            {
+                "package_id": 3,
+                "package_status_id": 1,
+                "package_status": "Pending",
+                "shipment_id": 3,
+                "package_weight": "1.00",
+                "delivery_type": 2,
+                "invoice_no": "24104154300372303825",
+                "buyer_info": {
+                    "b_last_name": "Gia",
+                    "b_first_name": "Kalingkingan",
+                    "b_contact": "09989986671 / 9",
+                    "b_address": {
+                        "address": "999 RestEver Pinakamatayog Village",
+                        "zip": "123",
+                        "region": "IV",
+                        "city": null
+                    }
+                },
+                "seller_info": {
+                    "s_first_name": "Gumogo",
+                    "s_last_name": "Agali",
+                    "s_contact": "09271225123",
+                    "s_address": {
+                        "address": "",
+                        "city": "Mandaluyong City",
+                        "region": "",
+                        "zip": "1603"
+                    }
+                },
+                "products": [
+                    {
+                        "product_name": "Royale L-gluta Power Soap",
+                        "product_quantity": 1,
+                        "product_weight": "0.50"
+                    }
+                ]
+            },
+            {
+                "package_id": 3,
+                "package_status_id": 1,
+                "package_status": "Pending",
+                "shipment_id": 3,
+                "package_weight": "1.00",
+                "delivery_type": 2,
+                "invoice_no": "24104154300372303825",
+                "buyer_info": {
+                    "b_last_name": "Leroy",
+                    "b_first_name": "Tosit",
+                    "b_contact": "09989986671 / 9",
+                    "b_address": {
+                        "address": "1106",
+                        "zip": "",
+                        "region": "",
+                        "city": null
+                    }
+                },
+                "seller_info": {
+                    "s_first_name": "Gon",
+                    "s_last_name": "Daney",
+                    "s_contact": "09271225123",
+                    "s_address": {
+                        "address": "",
+                        "city": "Mandaluyong City",
+                        "region": "",
+                        "zip": "1603"
+                    }
+                },
+                "products": [
+                    {
+                        "product_name": "Royale L-gluta Power Soap",
+                        "product_quantity": 1,
+                        "product_weight": "0.50"
+                    }
+                ]
+            }
+        ],
+        "paginate": {
+            "total_count": 3,
+            "total_pages": 1,
+            "current_page": 1,
+            "next_page": null,
+            "previous_page": null
+        }
+    }
+}
